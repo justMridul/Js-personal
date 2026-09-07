@@ -1,3 +1,3 @@
 # Js-personal
-A code repo for JavaScring Learning journey.
+A code repository for JavaScring Learning journey.
 Contains files of javascript concepts.
